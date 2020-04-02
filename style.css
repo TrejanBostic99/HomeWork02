@@ -3,3 +3,50 @@
     background-color: red;
     background-image: repeating-linear-gradient(to bottom right, red, black);
 }
+
+header {
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: red;
+    width: 13%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 15%;
+    text-shadow: 3px 3px black;
+    box-shadow: 10px 10px 5px black;
+}
+img {
+    margin: 20px;
+    border-radius: 15px;
+    float: left;
+    box-shadow: 10px 10px 5px black;
+}
+
+p {
+    float: left;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: red;
+    text-shadow: 3px 3px black;
+    text-align: center;
+    width: 50%;
+    border-radius: 15%;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px black;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: red;
+    width: 13%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 15%;
+    text-shadow: 3px 3px black;
+    box-shadow: 10px 10px 5px black;
+    
+}
