@@ -4,7 +4,7 @@
     background-image: repeating-linear-gradient(to bottom right, red, black);
 }
 
-header {
+h1 {
     font-size: xx-large;
     font-weight: bolder;
     background-color: rgba(0, 0, 0, 0.466);
@@ -21,23 +21,27 @@ img {
     border-radius: 15px;
     float: left;
     box-shadow: 10px 10px 5px black;
+    max-width: 100%;
+  height: auto;
 }
 
 p {
-    float: left;
-    margin: 20px;
-    background-color: rgba(0, 0, 0, 0.466);
-    color: red;
-    text-shadow: 3px 3px black;
-    text-align: center;
-    width: 50%;
-    border-radius: 15%;
     font-size: large;
     font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: red;
+    width: 600px;
+    margin: 30px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 15%;
+    text-shadow: 3px 3px black;
     box-shadow: 10px 10px 5px black;
+    
+    
 }
 
-h1 {
+ {
     font-size: xx-large;
     font-weight: bolder;
     background-color: rgba(0, 0, 0, 0.466);
