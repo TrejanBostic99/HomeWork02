@@ -37,20 +37,6 @@ p {
     border-radius: 15%;
     text-shadow: 3px 3px black;
     box-shadow: 10px 10px 5px black;
-    
-    
 }
 
- {
-    font-size: xx-large;
-    font-weight: bolder;
-    background-color: rgba(0, 0, 0, 0.466);
-    color: red;
-    width: 13%;
-    margin: 20px;
-    text-align: center;
-    border-radius: 15%;
-    text-shadow: 3px 3px black;
-    box-shadow: 10px 10px 5px black;
-    
-}
+ 
