@@ -1,4 +1,4 @@
-.fish{
+.fish {
     height: 1000px;
     background-color: red;
     background-image: repeating-linear-gradient(to bottom right, red, black);
@@ -39,4 +39,16 @@ p {
     box-shadow: 10px 10px 5px black;
 }
 
- 
+label {
+    font-size: large;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: red;
+    text-align: center;
+    border-radius: 15%;
+    text-shadow: 3px 3px black;
+    box-shadow: 10px 10px 5px black;
+}
+
+
+
